@@ -29,9 +29,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" title="Express.js" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" title="MySQL" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" title="MongoDB" />
-<a href="https://www.netacad.com/courses/packet-tracer" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Cisco_Packet_Tracer_logo.png" width="50" height="50" title="Cisco Packet Tracer" />
-</a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Cisco_Packet_Tracer_logo.png" width="50" height="50" title="Cisco Packet Tracer" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50" height="50" title="MATLAB" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" title="Git" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" title="GitHub" />
