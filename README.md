@@ -1,5 +1,6 @@
 ## SOUNDARKUMAR
 <div align="center">
+
 ### Let's Connect 
 <a href="https://www.linkedin.com/in/soundarkumar-sN/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" title="LinkedIn" />
@@ -8,7 +9,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Unstop_logo.png" width="50" height="50" title="Unstop" />
 </a>
 <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Naukri.com_Logo.png" width="50" height="50" title="Naukri" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Naukri.com_logo.png" width="50" height="50" title="Naukri" />
 </a>
 <a href="https://leetcode.com/soundar012" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="50" height="50" title="LeetCode" />
@@ -16,7 +17,7 @@
 <a href="https://www.hackerrank.com/profile/soundarkumar916" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/HackerRank_logo.png" width="50" height="50" title="HackerRank" />
 </a>
-  
+
 ### Languages & Platforms
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" title="C" />
@@ -35,26 +36,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" title="Git" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" title="GitHub" />
 
-
-
-
-
 </div>
-
-
-
-
-<!--
-**SOUNDAR71/soundar71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
