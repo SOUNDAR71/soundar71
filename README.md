@@ -18,7 +18,7 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/HackerRank_logo.png" width="50" height="50" title="HackerRank" />
 </a> -->
 </div>
-## Languages & Tools:
+### Languages & Tools:
 <div align = "center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" title="C" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" title="Java" />
